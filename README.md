@@ -11,6 +11,6 @@ This repository contains my assignments completed during the Accenture Frontend 
 ### Technologies Used
 
 - HTML5
-- CSS3
-- Flexbox
+- Tailwind CSS
 - Responsive Design
+- Javascript
